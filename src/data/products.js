@@ -1,5 +1,5 @@
 export const products = [
-  { id: 1, name: "Running Shoes", price: 89.99, stock: 5 },
-  { id: 2, name: "Yoga Mat", price: 24.99, stock: 0 },
-  { id: 3, name: "Water Bottle", price: 14.99, stock: 12 },
+  { id: 1, name: "BMW X5", price: 45000, stock: 1 },
+  { id: 2, name: "Audi A4", price: 32000, stock: 1 },
+  { id: 3, name: "Tesla Model 3", price: 38000, stock: 0 },
 ];
